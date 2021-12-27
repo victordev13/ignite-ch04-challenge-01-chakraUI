@@ -13,13 +13,7 @@ export default function Banner() {
       h={370}
       color="gray.50">
       <Box my="6" maxWidth={1480} mx="auto" px="6">
-        <Text as="span">
-          5 Continentes, infinitas possibilidades.
-        </Text>
-        <Text>
-          Chegou a hora de tirar do papel a viagem que você
-          sempre sonhou.
-        </Text>
+        <Text as="h1">Europa</Text>
       </Box>
       <Box>
         <Image src="/airplane.png" alt="Airplane" />
