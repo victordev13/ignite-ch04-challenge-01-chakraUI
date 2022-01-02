@@ -16,13 +16,13 @@ export default function Carousel() {
         className="mySwiper"
         pagination>
         <SwiperSlide>
-          <Image src="/airplane.png" />
+          <Image src="/airplane.png" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          <Image src="/airplane.png" />
+          <Image src="/airplane.png" alt="" />
         </SwiperSlide>
         <SwiperSlide>
-          <Image src="/airplane.png" />
+          <Image src="/airplane.png" alt="" />
         </SwiperSlide>
       </Swiper>
     </>
